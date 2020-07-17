@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
+<p align="center"> <img align="center" src="https://github.com/blestab/blestab/blob/master/5ZxwiqR.gif" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blestab" alt="blestab" /> </p>
 
 - 🔭 I’m currently working on [HospitalRun](https://github.com/HospitalRun)
