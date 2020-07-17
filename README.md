@@ -1,4 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blestab" alt="blestab" /> </p>
+
+- 🔭 I’m currently working on [HospitalRun](https://github.com/HospitalRun)
+
+- 👯 I’m looking to collaborate on [OpenEMR](https://github.com/openemr/openemr)
+
+- 📝 I curate HealthIT articles on [https://blestab.wordpress.com](https://blestab.wordpress.com)
+
+- 💬 Ask me about **HTML, Javascript, SQL Server, MySQL, PHP, HL7, FHIR, MEDITECH**
+
+- 📫 How to reach me **blestab@gmail.com**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=blestab&show_icons=true" alt="blestab" /> </p>
+
+<p align="center">
+<a href="https://dev.to/blestab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="blestab" height="20" width="20" /></a>
+<a href="https://twitter.com/blestab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="blestab" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/blessedtabvirwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blessedtabvirwa" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/blestab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="blestab" height="20" width="20" /></a>
+</p>
 
 <!--
 **blestab/blestab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
