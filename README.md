@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blestab" alt="blestab" /> </p>
 
-- 🔭 I’m currently working on [OpenUK](https://openuk.uk)
+- 🔭 I’m currently working at  [MEDITECH](https://ehr.meditech.com)  [OpenUK](https://openuk.uk) [HL7](https://hl7.org)
 
 - 👯 I’m looking to collaborate on Open Source for Digital Health
 
 - 📝 I curate HealthIT articles on [https://blestab.wordpress.com](https://blestab.wordpress.com)
 
 - 💬 Ask me about **HTML, Javascript, SQL Server, MySQL, PHP, HL7, FHIR, MEDITECH**
-
-- 📫 How to reach me **blestab at gmail dot com**
 
 <!--
 **blestab/blestab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
