@@ -6,11 +6,13 @@
 
 - 🔭 I’m currently working at  [MEDITECH](https://ehr.meditech.com), [OpenUK](https://openuk.uk) and [HL7](https://hl7.org)
 
+- 🔭 I used to work at  [MEDITECH](https://ehr.meditech.com), and [Telstra Health](https://wwwtelstrahealth.com.au) to name a few organisations.
+
 - 👯 I’m looking to collaborate on Open Source for Digital Health
 
 - 📝 I curate HealthIT articles on [https://blestab.wordpress.com](https://blestab.wordpress.com)
 
-- 💬 Ask me about **HTML, Javascript, SQL Server, MySQL, PHP, HL7, FHIR, MEDITECH**
+- 💬 Ask me about **HL7, FHIR, HTML, Javascript (React/Vue), CSS, SQL Server, MySQL, PHP, MEDITECH**
 
 <!--
 **blestab/blestab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
