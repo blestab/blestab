@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blestab" alt="blestab" /> </p>
 
-- 🔭 I’m currently working at  [MEDITECH](https://ehr.meditech.com), [OpenUK](https://openuk.uk) and [HL7](https://hl7.org)
+- 🔭 I’m currently volunteering at [OpenUK](https://openuk.uk) and [HL7 International](https://hl7.org)
 
 - 🔭 I used to work at  [MEDITECH](https://ehr.meditech.com), and [Telstra Health](https://wwwtelstrahealth.com.au) to name a few organisations.
 
